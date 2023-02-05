@@ -1,6 +1,6 @@
 #dice roll
 #ask how many dice they want to roll
-
+#output ASCII drawings of the dice that were "rolled" by the simulator
 
 import random
 
